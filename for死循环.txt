@@ -1,0 +1,4 @@
+for i in iter(int ,1):pass
+# iter迭代器,
+# print(int())   
+#int()的值为0,永远不可能是1,所以就成为了死循环
